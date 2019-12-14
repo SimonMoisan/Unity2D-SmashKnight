@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ennemy
+  - EnnemyDestroyer
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ennemy
   - 
   - 
   - 
@@ -40,4 +42,43 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ennemy Back Right
+    uniqueID: 1051906965
+    locked: 0
+  - name: Ennemy Back Left
+    uniqueID: 3524169681
+    locked: 0
+  - name: Player Back
+    uniqueID: 965820765
+    locked: 0
+  - name: Grass Layer Back
+    uniqueID: 1668952197
+    locked: 0
+  - name: Player Middle
+    uniqueID: 1193326135
+    locked: 0
+  - name: Ennemy Middle Right
+    uniqueID: 1871745329
+    locked: 0
+  - name: Ennemy Middle Left
+    uniqueID: 2747721309
+    locked: 0
+  - name: Grass Layer Middle
+    uniqueID: 1500772693
+    locked: 0
+  - name: Player Front
+    uniqueID: 2049467571
+    locked: 0
+  - name: Ennemy Front Right
+    uniqueID: 3241148017
+    locked: 0
+  - name: Ennemy Front Left
+    uniqueID: 3927499915
+    locked: 0
+  - name: Grass Layer Front
+    uniqueID: 3736324123
+    locked: 0
+  - name: Particle Blood
+    uniqueID: 2524632989
     locked: 0
